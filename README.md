@@ -1,7 +1,7 @@
 Service for saving and loading game data on Zenject framework
 
 **Installation:**
-Download and install the latest version of Zenject from the link - [https://github.com/modesttree/Zenject/releases](https://github.com/modesttree/Zenject/releases)
+Download and install the latest version of Zenject from the link - [https://github.com/modesttree/Zenject/releases](https://github.com/modesttree/Zenject/releases)</br>
 Download and install the save package from the link - [https://github.com/Astar0th7/save-load-data-zenject/releases](https://github.com/Astar0th7/save-load-data-zenject/releases)
 
 **How to use:**
