@@ -22,7 +22,7 @@ This is the main setting that is necessary for the service to work.
 
 Examples:
 
-Registering the preservation server itself
+Registering the preservation service itself
 ```csharp
 public override void InstallBindings()
 {
